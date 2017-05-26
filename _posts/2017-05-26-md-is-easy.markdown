@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Markdown is Easy, Jekyll is Hard"
+date:   2017-05-26 14:26:30 -0400
+categories: jekyll update
+---
+# Learning Jekyll is Learning Everything

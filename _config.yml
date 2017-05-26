@@ -16,7 +16,7 @@
 title: Take it Easy, Love is Hard
 email: d.vanderhaarhunter@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  TIELove is a space to eplore what I'm learning in web dev, life, or otherwise.
+  TIELove is a space to eplore what I'm learning in web dev, life, and otherwise.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: '@classicwook'
