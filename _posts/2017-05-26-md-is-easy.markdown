@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Markdown is Easy, Jekyll is Hard"
+date:   2017-05-26 14:26:30 -0400
+categories: blog
+---
+## My _Welcome_ Post
+
+Hey everyone! This is my first official blog post. Over the next three months I'll be full-time training at Awesome Inc (Lexington, Ky). The goal over this time period is to gain a set of tools and skills relevant to web development. Each week, I will post about my experience learning a particual technology or development process, in the hopes that it will help a budding developer down the road. Thanks for joining me on this journey :)
+
+## Learning Jekyll is Learning Everything
+
+This week our cohort of web dev learners went from 0mph to 60mph, _fast_. Most of us are coming into this 3-month bootcamp with little to no knowledge of anything web. Regardless, my week's end goal was to put up a jekyll blog. Yay, its here! But, it didn't happen easily and there was certainly magic involved. 
+
+So here's where I'm coming from: Day one, I didn't know the difference between git and Github; I had opened up my terminal once, and that was by accident; the only real experience I had with html was my 12-year-old myspace page. So, yea... Seven days ago my tool belt consisted of a lack of file management, a scary terminal experience, and a myspace page. And here is a list of tools one needs to put up a jekyll site:
+
+* bash
+* git
+* GitHub account
+* Ruby gems
+* Bundler
+* A text editotr such as Sublime Text
+* Node
+* Node Package Manager (npm)
+* jekyll
+* Twitter Bootstrap
+* And some other bits I am certainly forgetting.
+
+That's a lot of stuff, web _stuff_. If you don't know what some of this is, it's __OK__. We had no idea. This is why I say:
+
+> Learning Jekyll is Learning Everything
+
+It's becasue using jekyll, a fairly simple blogging technology, will require you to research, read, and learn of about 50 other things prior. The good news in all of this is that these are all very learnable things. In the title of this post I refer to a browser language called \'Markup\'. It's what I'm using right now to type this post and it's one of those 50 things you'll need to learn. And here's the light at the end of the tunnel... Markup language is easier to use than Microsoft Word. No joke. 
+
+## Conclusion
+
+So, this is my conclusion and encouragement to you. If you can learn Microsoft Word 50 times over, you can learn to publish your own jekyll website and then will be well on your way to full-fledged web development. And don't get me wrong, I realize learning MS Word 50 times over sounds like a headache. Learning this stuff tends to give out headaches like candy. But that's __OK__! You're putting yourself, and all that creativity you've been saving, onto the world wide web. That's a huge payoff fam. Keep going, keep learning.
+
+### Until next time,
+
+## Take it easy
