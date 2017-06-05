@@ -1,10 +1,10 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /blog
+baseurl: 
 
 # Site live URL
-url: http://david-vanderhaar.github.io
+url: http://david-vanderhaar.github.io/blog
 
 
 # # Base URL
