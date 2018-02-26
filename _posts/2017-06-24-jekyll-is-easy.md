@@ -4,12 +4,13 @@ title:  "Jekyll is Easy, Blogging is Hard"
 date:   2017-06-24 14:26:30 -0400
 categories: blog
 ---
+# TEST
 
 ## What is Jekyll?
 
 So what is Jekyll anyway? It's a static website generator. It takes in your HTML, CSS, and Markdown files and it spits out a deployment-ready content for your personal, product or portfolio site.  
 
-That's the most straight-forward answer. But the goodness of Jekyll isn't what it is, its what it can do for you as a developer. 
+That's the most straight-forward answer. But the goodness of Jekyll isn't what it is, its what it can do for you as a developer.
 
 ## Why use Jekyll?
 
