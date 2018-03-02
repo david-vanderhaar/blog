@@ -21,9 +21,7 @@ Let’s quickly discuss game logic in order to better appreciate how it will inf
 > "The game loop is an important concept in any game, from the most low tech pong clong to a triple A graphics card melting FPS. An oversimplified version has three stages:
 
 > 1. Take input from the player.
-
 > 2. Change game state accordingly.
-
 > 3. Display something to the player."
 
 -- [James Nutt](https://jsrn.gitbooks.io/make-your-first-text-adventure-in-ruby/content/the_game_loop.html)
