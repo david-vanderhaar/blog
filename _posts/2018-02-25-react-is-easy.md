@@ -32,12 +32,26 @@ If you were to make a simple game right now, you would certainly build it in ter
 
 Now let's compare these steps of the generic game loop to the steps of a generic React component. The most common components will consist of three things: incoming data referred to as 'props' (or properties); a state which holds the current state of data passed in; and a render function that is responsible for using the data from state to display in terms of HTML.
 
-Folks, that is the description of a proper game loop! After I realized how similar the component structure is to the game loop, learning React has been a blast because it allows me to practice new concepts in React expressed via simple web games.
+Folks, that is a proper game loop! After I realized how similar the component structure is to the game loop, learning React has been a blast because it allows me to practice new concepts in React expressed via simple web games.
 
 ## Forcing Your Focus
+When making games with JS, many people to choose HTML5’s canvas element, as it can aptly handle data updates; but force yourself to stick with simpler tags like divs and spans. This will keep your learning focused on what React has to offer.
+
+This will force you to:
+- rely more on className and CSS skills, which is invaluable to coders like me who lean on JS for style manipulation..
+- pass around props, maintain component states, and teach you how to lift state from child to parent
+
+In short, limiting yourself to developing a game with *only* React will force you to dig deep and use React for all it's worth.
 
 ## Fundamentals as a Foundation
+Your foundational knowledge will come from the Docs. If you decide to force your focus on what React is providing, the challenge of building a game with it will lead, you time and again, to their awesome documentation. By going through this process you will certainly catch tidbits of React knowledge you missed while going through the [Tic Tac Toe Tutorial](https://reactjs.org/tutorial/tutorial.html).
 
-### Until Then
+One of the tidbits I missed when going through the basics was React's 'shouldComponentUpdate'. My first React-based game was a simple, tile-based RPG where each game tile was it's own component. Each level contained around 1200 of these tiny components, and with every action the player takes, all 1200 tiles would update. This resulted in a poorly optimaized game loop that took near 1000ms to render. That's when I went into the docs, on the search for something more practical.
+
+Making this game and keeping it optimized allowed me to internalize the 'shouldComponentUpdate' function and use it in more projects down the road.
+
+So, take a chance, learn React, and make a fun game!
+
+### Until Next Time
 
 ## Take it Easy
