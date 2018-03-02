@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React is Easy, Game Development is Hard"
-date:   2017-02-25 14:26:30 -0400
+date:   2018-02-25 14:26:30 -0400
 categories: blog
 ---
 
