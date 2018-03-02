@@ -4,7 +4,6 @@ title:  "Jekyll is Easy, Blogging is Hard"
 date:   2017-06-24 14:26:30 -0400
 categories: blog
 ---
-# TEST
 
 ## What is Jekyll?
 
