@@ -19,7 +19,7 @@ Let's say we have library app that needs to keep track of book availability. In 
   }
 ```
 
-Using `Object.assign()` in this way is ok, but we will see that this syntax quite cumbersome when writing more complicated functions. This is where [object spread syntax](****************GET LINK****************) comes in handy. Using the spread (...) operator in our previous function let's us simplify things.
+Using `Object.assign()` in this way is ok, but we will see that this syntax quite cumbersome when writing more complicated functions. This is where [object spread syntax](https://github.com/tc39/proposal-object-rest-spread) comes in handy. Using the spread (...) operator in our previous function let's us simplify things.
 
 ```javascript
   function changeAvailability(book_id, new_availability) {
