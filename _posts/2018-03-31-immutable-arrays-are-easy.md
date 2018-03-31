@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arrays Are Easy, Immutability Are Hard"
+title:  "Arrays Are Easy, Immutability is Hard"
 date:   2018-03-31 14:26:30 -0400
 categories: blog
 ---
