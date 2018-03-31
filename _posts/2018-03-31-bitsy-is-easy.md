@@ -32,7 +32,7 @@ It is a beginner-friendly game engine that allows you to create simple rooms to 
 
 Adam Dixon from [Rock, Paper, Shotgun](https://www.rockpapershotgun.com/2018/02/23/how-small-game-makers-found-their-community-with-bitsy/) points out that Bitsy's success with game developers has been due to it's simplicity. It allows game devs to:
 
->make compelling games over a couple of evenings. The lowered stakes [make it] perfect for testing out ideas, making short mood pieces or expressing personal stories.
+>"make compelling games over a couple of evenings. The lowered stakes [make it] perfect for testing out ideas, making short mood pieces or expressing personal stories."
 
 Here's a [great example](https://itch.io/queue/c/90743/bitsy-games?game_id=210187) of what you can experience with Bitsy!
 
