@@ -36,7 +36,7 @@ So why aren't we all writing tests already?
 Here a few great articles on the subject.
 
 1. [5 Questions Every Unit Test Must Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
-2. [Guideline For Test Driven Development](https://msdn.microsoft.com/en-us/library/aa730844(v=vs.80)
+2. [Guideline For Test Driven Development](https://msdn.microsoft.com/en-us/library/aa730844(v=vs.80))
 3. [9 Benefits of Test Driven Development](https://www.madetech.com/blog/9-benefits-of-test-driven-development)
 
 Bottom line is that coding is one aspect of what you do but testing will become an equally important partner in your journey to dev greatness. IT will force quality and understanding on all that you code.
