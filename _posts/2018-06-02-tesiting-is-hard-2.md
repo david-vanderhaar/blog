@@ -5,10 +5,6 @@ date:   2018-06-02 14:26:30 -0400
 categories: blog
 ---
 
-- what is Jest
-- the anatomy of a basic test
-- making the addition test better
-
 ## The Anatomy of Good Jest Test
 
 **First, a Gut-Check On the Importance of Testing**  
