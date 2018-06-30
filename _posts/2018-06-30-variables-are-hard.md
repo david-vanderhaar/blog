@@ -60,7 +60,7 @@ const opinion = 'pineapple on pizza is good';
 opinion = 'pineapple on pizza is disgusting'; //=> Uncaught SyntaxError: Identifier 'opinion' has already been declared
 ```
 
-To finish off, here's an amazing graphic to summarize what we just learned.
+To finish off, here's an amazing graphic from [Mariko Kosaka](https://twitter.com/kosamari) to summarize what we just learned.
 
 ![Image](https://pbs.twimg.com/media/CzLVVjtXAAERmbc.jpg)
 
