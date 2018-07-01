@@ -18,10 +18,10 @@ For this post we're breaking from the norm and reaching for the easy option, bec
 [**Medium.com**](https://medium.com/)
 If you're not on this site, create an account and explore. There are tons of devs posts articles all the time and they range from beginner to way over my head.
 Here are my current favorite streams of articles:
-- https://medium.com/javascript-scene
-- https://medium.freecodecamp.org/
-- https://codeburst.io/
-- https://medium.com/@_ericelliott
+- [JavaScript Scene](https://medium.com/javascript-scene)
+- [FreeCodeCamp](https://medium.freecodecamp.org/)
+- [Codeburst](https://codeburst.io/)
+- [Eric Elliot](https://medium.com/@_ericelliott)
 
 ### The Youtubes
 
