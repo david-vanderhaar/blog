@@ -112,41 +112,6 @@ Our game will begin with some bare bones data:
 ```
 At this point we have enough of a plan to begin our coding our components. In the next post we'll see my implementation of this plan. As a challenge, try and implement the games functionality yourself. You may use [my finished version of Greedy Dice](https://david-vanderhaar.github.io/react-arcade-greedy-dice/) as a reference.
 
-Steps:
-1. In the terminal `create-react-app name-of-app`
-2. for styling I'll use Materialize. We'll bring it in with the cdn by placing this in the header of public/index.html
-```
-<!-- Compiled and minified CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-
-<!-- Compiled and minified JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
-```
-2. in App.js delete everything in between 'App' <div>, we'll be starting from scratch
-3. create our component files `touch src/Nav.js src/Players.js src/GameBoard.js src/Die.js`
-4. in App.js we'll define the overall state of our app by setting the default state in our components constructor function
-5. let's go ahead and fill out what our App will render. Ultimately it will render three of our components, Nav, Players, and GameBoard. To use them here, we'll need to import them at the top of our file.
-6. let's define each of a component files to a bare minimu so that we can run our app.
-import React, { Component } from 'react';
-```
-class Nav extends Component {
-  render() {
-    return (
-      <div className="Nav">
-        Nav
-      </div>
-    );
-  }
-}
-
-export default Nav;
-```
-7. test that your app renders by running `npm start` in the terminal
-8. since we're using Materialize styles, the Nav component is cake! Heres what it looks like but feel free to customize it. This wouldn't be a bad time to explore [Materialize](https://materializecss.com/about.html) for yourself.
-9. Now the players component. It consists of the players scores and the dice they have locked in place so in App.js well pass in state.players as a prop for use in the Players component
-
 ### Until Next Time
 
 ## Take it Easy
