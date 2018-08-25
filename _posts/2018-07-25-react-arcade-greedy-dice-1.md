@@ -110,7 +110,7 @@ Our game will begin with some bare bones data:
   winScore: 5000,
 }
 ```
-At this point we have enough of a plan to begin coding our components. In the next post we'll see my implementation of this plan. As a challenge, try and implement the functionality yourself. You may use [my finished version of Greedy Dice](https://david-vanderhaar.github.io/react-arcade-greedy-dice/) as a reference.
+At this point we have enough of a plan to begin coding our components. In the next post we'll see my implementation of this plan. As a challenge, try and implement the functionality yourself. You may use [my finished version of Greedy Dice](https://github.com/david-vanderhaar/react-arcade-greedy-dice) as a reference.
 
 ### Until Next Time
 
