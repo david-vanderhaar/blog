@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "React Arcade | Greedy Dice"
+title:  "React Arcade | Greedy Dice Pt. 1"
 date:   2018-08-25 14:26:30 -0400
 categories: blog
 ---
