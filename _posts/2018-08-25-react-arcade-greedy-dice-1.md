@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React Arcade | Greedy Dice"
-date:   2018-07-25 14:26:30 -0400
+date:   2018-08-25 14:26:30 -0400
 categories: blog
 ---
 
@@ -62,7 +62,7 @@ This component will house the meat of our game logic and functionality. It will:
 - `handle` detecting when the player loses their turn
 
 **Die**
-This represents a single die and is only responsible for `displaying` the dice within our **Players** and **Gameboarb** component.
+This represents a single die and is only responsible for `displaying` the dice within our **Players** and **Gameboard** component.
 
 The last thing we should define before starting is our app's state tree. This will allow us to easily see which component will need what data. It will allow us to better remember where data needs to be passed and how it will be manipulated. Here is a sketch of our default state. You can think of this as our starting data.
 
