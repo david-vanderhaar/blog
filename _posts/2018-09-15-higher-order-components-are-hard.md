@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React is Easy, HOC's Are Hard"
-date:   2018-09-15 14:26:30 -0400
+date:   2018-09-15 01:26:30 -0400
 categories: blog
 ---
 
