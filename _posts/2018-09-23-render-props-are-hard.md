@@ -16,7 +16,7 @@ A render prop is a **function** that is passed to a component as a prop and **re
 3. Render props offer an alternative to using higher-order components
 
 ### The Simple How
-Let's look at a simple example. `Remember that render props just like normal props.` Instead of being a prop that holds data it is a function that returns data. The render prop is commonly named `render` but it can be named anything.
+Let's look at a simple example. Keep in mind that render props are just normal props. Instead of being a prop that holds data it is a function that returns data. The render prop is commonly named `render` but it can be named anything.
 
 Let's say our original component is simply a div that says 'Hello'.
 ```
@@ -29,7 +29,7 @@ class Hello extends React.Component {
 }
 ```
 
-Our goal will be to dynamically add a Name component that displays our name based on some variable we pass in.
+Our goal will be to dynamically add a `<Name />` component that displays our name based on some variable we pass in.
 
 Next we write our simple Name component:
 ```
@@ -69,7 +69,7 @@ class HelloWithName extends React.Component {
   }
 }
 ```
-eventually renders out to this:
+And eventually renders out to this:
 ```
 <div>Hello</div>
 <div>David</div>
